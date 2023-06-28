@@ -1,2 +1,0 @@
-# Assignment
-my Altschool Assignment
